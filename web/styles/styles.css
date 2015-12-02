@@ -1,0 +1,49 @@
+/*
+Copyright Betsey McCarthy and Colin Hiriak
+*/
+/* 
+    Created on : Nov 28, 2015, 10:14:22 PM
+    Author     : Betsey
+*/
+
+body {
+    margin-left: 25%;
+      margin-right: 25%;
+}
+img{
+    width:100%;
+}
+
+h1{
+    margin-left:23%;
+    font-size: 48px;
+}
+.inputs {
+   margin-left:3%;
+   margin-top: 2px;
+}
+#book_input {
+    margin-top:2px;
+    margin-left:3%;
+    width:300px;
+}
+#check_button {
+    margin-top:1%;
+    margin-left:11%;
+}
+#email_input {
+    margin-left:7%;
+}
+.border {
+    padding-bottom: 15px;
+    padding-left: 15px;
+      
+    border-color: red;
+    border-width: 2px;
+    border-style: solid;
+}
+.footer {
+    border-top-width: 2px;
+    border-top-color: blue;
+    border-top-style: solid;
+}
